@@ -1,7 +1,4 @@
-### 
-###     Termite config
-###
-
+## Termite config, it's more or less a modified atom theme
 
 [options]
 
@@ -13,10 +10,10 @@ font            = Source Code Pro 9
 foreground      = #abb2bf
 foreground_bold = #abb2bf
 cursor          =
-background      = #282c34
+background      = #303030
 
 # black
-color0  = #282c34
+color0  = #303030
 color8  = #5c6370
 
 # red
